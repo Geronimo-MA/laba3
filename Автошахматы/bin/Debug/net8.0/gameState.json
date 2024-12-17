@@ -1,0 +1,17 @@
+{
+  "GameBoard": {
+    "Pieces": [
+      {
+        "Type": "Rook",
+        "Color": "White",
+        "Position": {}
+      },
+      {
+        "Type": "Knight",
+        "Color": "White",
+        "Position": {}
+      }
+    ]
+  },
+  "CurrentPlayer": "Black"
+}

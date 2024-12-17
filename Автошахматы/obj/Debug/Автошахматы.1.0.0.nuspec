@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Автошахматы</id>
+    <version>1.0.0</version>
+    <authors>Автошахматы</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mrger\source\repos\Автошахматы\Автошахматы\bin\Debug\net8.0\Автошахматы.runtimeconfig.json" target="lib\net8.0\Автошахматы.runtimeconfig.json" />
+    <file src="C:\Users\mrger\source\repos\Автошахматы\Автошахматы\bin\Debug\net8.0\Автошахматы.dll" target="lib\net8.0\Автошахматы.dll" />
+  </files>
+</package>
